@@ -2,8 +2,13 @@
     margin: 0;
     padding:0
 }
+/*tags HTML*/
 nav{
     margin: 0 50px;
     padding: 20px;
     background-color: antiquewhite;
+}
+/*classes*/
+.top-link{
+    margin: 10px 15px;
 }
