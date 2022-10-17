@@ -11,7 +11,13 @@ nav{
     flex-direction: row;
     align-items: center; 
 }
+h1, h2{
+    padding: 15px;
+}
 /*classes*/
 .top-link{
     margin: 10px 15px;
+}
+.container{
+    padding: 0 50px;
 }
