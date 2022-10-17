@@ -4,9 +4,12 @@
 }
 /*tags HTML*/
 nav{
-    margin: 0 50px;
-    padding: 20px;
+    margin: 0;
+    padding: 10px;
     background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
 }
 /*classes*/
 .top-link{
